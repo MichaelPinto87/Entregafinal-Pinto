@@ -62,3 +62,12 @@ img {
   background-color: black;
   color: white;
 }
+
+/* Contacto */
+.contacto {
+  background-image: url(images/fondo-contacto.jpg);
+  background-repeat: no-repeat;
+  background-color: black;
+  background-size: 100%;
+  color: rgb(216, 215, 215);
+}
