@@ -1,0 +1,80 @@
+.contacto {
+  background-image: linear-gradient(to top, rgb(0, 0, 0), rgb(107, 107, 107));
+  background-repeat: no-repeat;
+  background-color: black;
+  background-size: 100%;
+  color: rgb(217, 215, 215);
+}
+
+main {
+  background-color: black;
+  color: white;
+}
+
+.fondo-hero {
+  background-image: url(../images/7e4146633012af92176d16bcf87b1896.jpg);
+}
+
+iframe.video-principal {
+  align-self: center;
+  padding: 0px;
+  margin-left: 100px;
+}
+
+@media (max-width: 720px) {
+  iframe.video-principal {
+    margin: 25px;
+  }
+}
+li .nav-item {
+  padding-left: 30px;
+}
+li a {
+  text-decoration: none;
+}
+
+.mitad-de-pagina {
+  text-align: center;
+}
+
+.primeros-videos {
+  background-color: rgb(40, 40, 40);
+  color: black;
+}
+
+.video {
+  align-items: center;
+}
+
+.mas-videos {
+  margin: 100px;
+}
+
+.f-img {
+  width: 300px;
+  height: 300px;
+}
+
+.body-videos {
+  background-color: black;
+  color: white;
+  background-image: linear-gradient(rgb(0, 0, 0), rgb(78, 78, 77));
+}
+
+.conoce-mas {
+  text-align: center;
+  justify-content: center;
+  background-image: url(../images/arnold.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.ir-a-videos {
+  text-align: center;
+}
+
+header {
+  background-color: #d00000;
+}
+
+/*# sourceMappingURL=styles.css.map */

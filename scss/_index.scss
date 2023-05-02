@@ -1,0 +1,48 @@
+main {
+  background-color: black;
+  color: white;
+}
+
+.fondo-hero {
+  background-image: url(../images/7e4146633012af92176d16bcf87b1896.jpg);
+}
+iframe.video-principal {
+  align-self: center;
+  padding: 0px;
+  margin-left: 100px;
+}
+
+@media (max-width: 720px) {
+  iframe.video-principal {
+    margin: 25px;
+  }
+}
+
+li {
+  .nav-item {
+    padding-left: 30px;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+.mitad-de-pagina {
+  text-align: center;
+}
+
+.primeros-videos {
+  background-color: rgb(40, 40, 40);
+  color: black;
+}
+
+.video {
+  align-items: center;
+}
+.mas-videos {
+  margin: 100px;
+}
+
+.f-img {
+  width: 300px;
+  height: 300px;
+}
